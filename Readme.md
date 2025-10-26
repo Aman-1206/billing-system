@@ -28,3 +28,20 @@ This is a simple **Shop Billing System** built in C++ that supports both **admin
 6. Follow the on-screen menus to interact with the system.
 
 This project is **open-source** and free to use for **educational purposes**.
+# 📜 License
+
+This project is open-source and available under the MIT License.
+
+💡 Author
+
+-Aman
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aman-1206)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-a2ba54361)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-792a9b?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aman.cpp_/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankumarschool7@gmail.com)
