@@ -18,7 +18,7 @@ This is a simple **Shop Billing System** built in C++ that supports both **admin
 - **Search Product by ID**: Find a product using its ID
 - **Buy Product**: Process customer purchases
 - **Exit**: Exit the program
-
+ 
 ## How to Use
 1. Open the program.
 2. Choose to login as **Customer** or **Admin**.
@@ -28,7 +28,7 @@ This is a simple **Shop Billing System** built in C++ that supports both **admin
 6. Follow the on-screen menus to interact with the system.
 
 This project is **open-source** and free to use for **educational purposes**.
-# 📜 License
+# 📜 License 
 
 This project is open-source and available under the MIT License.
 
